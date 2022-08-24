@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning DS-Algo
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to work in open source projects
-- 🥅 2021 Goals : Improve my problem solving skills
+- 🥅 2022 Goals : Improve my problem designing skills
 - 💬 Ask me about C/C++, Front-end Web Development, Any tech-related stuff.
 
 <br/>
