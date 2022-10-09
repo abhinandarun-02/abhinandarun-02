@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 👯 I’m looking to work in open source projects
-- 🥅 2022 Goals : Improve my problem designing skills
+- 🥅 2022 Goals : Improve my problem solving skills
 - 💬 Ask me about C/C++, Front-end Web Development, Any tech-related stuff.
 
 <br/>
