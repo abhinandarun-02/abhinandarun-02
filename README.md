@@ -16,3 +16,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abhinandarun-02&show_icons=true&locale=en&theme=radical" alt="abhinandarun-02" />
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandarun-02&layout=compact&theme=radical">
 </p>
+
+<img align = "center" src = "https://www.holopin.io/api/user/board?user=abhinandarun_02"/>
