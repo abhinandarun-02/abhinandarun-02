@@ -4,17 +4,13 @@
 
 <br/>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Chakra UI
 - 👯 I’m looking to work in open source projects
-- 🥅 2022 Goals : Improve my problem solving skills
-- 💬 Ask me about C/C++, Front-end Web Development, Any tech-related stuff.
+- 🥅 2023 Goals : Improve my problem solving skills
+- 💬 Ask me about C/C++, Algo, CSS, React or Any tech-related stuff.
 
 <br/>
 <br/>
 
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhinandarun-02&show_icons=true&locale=en&theme=radical" alt="abhinandarun-02" />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandarun-02&layout=compact&theme=radical">
-</p>
-
-<img align = "center" src = "https://www.holopin.io/api/user/board?user=abhinandarun_02"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandarun-02&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandarun-02&theme=gotham&layout=compact&exclude_repo=Earth-For-All&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=FF0080&text_color=fefefe">
