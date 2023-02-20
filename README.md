@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Chakra UI
+- 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to work in open source projects
 - 🥅 2023 Goals : Improve my problem solving skills
 - 💬 Ask me about C/C++, Algo, CSS, React or Any tech-related stuff.
